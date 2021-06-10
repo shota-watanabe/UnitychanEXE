@@ -3,7 +3,7 @@
 <br>
 **リリース日**　2021/05/13<br>
 **対応機種**　　Android 4.4以上<br>
-**使用ツール**　Unity2020.3.3f　VisualStudioCode1.56.1　Blender2.83<br>
+**使用ツール**　Unity2020.3.3f　VisualStudioCode1.56.1<br>
 **使用言語**　　C#<br>
 **開発期間**　　2週間<br>
 **[Google Play](https://play.google.com/store/apps/details?id=com.ShotaWatanabe.UnitychanEXE)**<br>
